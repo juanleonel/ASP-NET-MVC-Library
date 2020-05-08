@@ -1,0 +1,12 @@
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\bin\Debug\Library.Helpers.dll
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\bin\Debug\Library.Helpers.pdb
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\bin\Debug\System.Web.Mvc.dll
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\bin\Debug\System.Web.Mvc.xml
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\obj\Debug\Library.Helpers.csprojAssemblyReference.cache
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\obj\Debug\Library.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\obj\Debug\Library.Helpers.csproj.CopyComplete
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\obj\Debug\Library.Helpers.dll
+C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Helpers\obj\Debug\Library.Helpers.pdb
