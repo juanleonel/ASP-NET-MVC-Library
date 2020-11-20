@@ -1,0 +1,77 @@
+20/11/2020 11:57:18 a. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Library.Dbsql' del equipo 'DESKTOP-QQU8PJ9' por el usuario 'JUAN LEONEL'.
+20/11/2020 11:57:18 a. m.	Se inició la importación del esquema de la base de datos.
+20/11/2020 11:58:01 a. m.	Recopilando opciones de base de datos
+20/11/2020 11:58:01 a. m.	Recopilando usuarios
+20/11/2020 11:58:01 a. m.	Recopilando roles
+20/11/2020 11:58:01 a. m.	Recopilando roles de aplicación
+20/11/2020 11:58:01 a. m.	Recopilando pertenencias a roles
+20/11/2020 11:58:01 a. m.	Recopilando grupos de archivos
+20/11/2020 11:58:01 a. m.	Recopilando catálogos de texto completo
+20/11/2020 11:58:01 a. m.	Recopilando ensamblados
+20/11/2020 11:58:01 a. m.	Recopilando certificados
+20/11/2020 11:58:01 a. m.	Recopilando claves asimétricas
+20/11/2020 11:58:01 a. m.	Recopilando claves simétricas
+20/11/2020 11:58:01 a. m.	Recopilando claves simétricas cifradas
+20/11/2020 11:58:01 a. m.	Recopilando esquemas
+20/11/2020 11:58:14 a. m.	Recopilando colecciones de esquemas XML
+20/11/2020 11:58:14 a. m.	Recopilando tipos de datos definidos por el usuario
+20/11/2020 11:58:14 a. m.	Recopilando tipos definidos por el usuario
+20/11/2020 11:58:15 a. m.	Recopilando tipos de tabla
+20/11/2020 11:58:15 a. m.	Recopilando claves únicas para tipos de tabla
+20/11/2020 11:58:15 a. m.	Recopilando claves principales para tipos de tabla
+20/11/2020 11:58:15 a. m.	Recopilando índices para tipos de tablas
+20/11/2020 11:58:15 a. m.	Recopilando restricciones CHECK para tipos de tabla
+20/11/2020 11:58:15 a. m.	Recopilando restricciones DEFAULT para tipos de tabla
+20/11/2020 11:58:15 a. m.	Recopilando funciones de partición
+20/11/2020 11:58:15 a. m.	Recopilando esquemas de partición
+20/11/2020 11:58:15 a. m.	Recopilando funciones
+20/11/2020 11:58:15 a. m.	Recopilando funciones cifradas
+20/11/2020 11:58:15 a. m.	Recopilando agregados
+20/11/2020 11:58:15 a. m.	Recopilando procedimientos
+20/11/2020 11:58:15 a. m.	Recopilando procedimientos cifrados
+20/11/2020 11:58:15 a. m.	Recopilando tablas
+20/11/2020 11:58:16 a. m.	Recopilando claves principales
+20/11/2020 11:58:16 a. m.	Recopilando restricciones UNIQUE
+20/11/2020 11:58:16 a. m.	Recopilando claves externas
+20/11/2020 11:58:16 a. m.	Recopilando restricciones DEFAULT
+20/11/2020 11:58:16 a. m.	Recopilando restricciones CHECK
+20/11/2020 11:58:16 a. m.	Recopilando vistas
+20/11/2020 11:58:16 a. m.	Recopilando vistas cifradas
+20/11/2020 11:58:16 a. m.	Recopilando índices
+20/11/2020 11:58:16 a. m.	Recopilando estadísticas
+20/11/2020 11:58:16 a. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+20/11/2020 11:58:16 a. m.	Recopilando listas de propiedades de búsqueda
+20/11/2020 11:58:16 a. m.	Recopilando propiedades de búsqueda
+20/11/2020 11:58:16 a. m.	Recopilando índices de texto completo
+20/11/2020 11:58:16 a. m.	Recopilando índices de almacenamiento de columnas
+20/11/2020 11:58:16 a. m.	Recopilando índices espaciales
+20/11/2020 11:58:17 a. m.	Recopilando índices XML
+20/11/2020 11:58:17 a. m.	Recopilando índices XML selectivos
+20/11/2020 11:58:17 a. m.	Recopilando desencadenadores cifrados
+20/11/2020 11:58:17 a. m.	Recopilando desencadenadores
+20/11/2020 11:58:17 a. m.	Recopilando DDL triggers cifrados y de CLR
+20/11/2020 11:58:17 a. m.	Recopilando DDL triggers
+20/11/2020 11:58:17 a. m.	Recopilando sinónimos
+20/11/2020 11:58:17 a. m.	Recopilando valores predeterminados
+20/11/2020 11:58:17 a. m.	Recopilando enlaces UDDT de restricción de datos
+20/11/2020 11:58:17 a. m.	Recopilando reglas
+20/11/2020 11:58:17 a. m.	Recopilando enlaces UDDT de restricción de datos
+20/11/2020 11:58:17 a. m.	Recopilando tipos de mensaje
+20/11/2020 11:58:17 a. m.	Recopilando colas
+20/11/2020 11:58:17 a. m.	Recopilando contratos
+20/11/2020 11:58:17 a. m.	Recopilando servicios
+20/11/2020 11:58:17 a. m.	Recopilando notificaciones de eventos
+20/11/2020 11:58:17 a. m.	Recopilando enlaces de servicio remoto
+20/11/2020 11:58:17 a. m.	Recopilando prioridades de Broker
+20/11/2020 11:58:17 a. m.	Recopilando firmas
+20/11/2020 11:58:17 a. m.	Recopilando opciones de compresión de datos
+20/11/2020 11:58:17 a. m.	Recopilando tipos de secuencia
+20/11/2020 11:58:17 a. m.	Recopilando propiedades extendidas
+20/11/2020 11:58:20 a. m.	Recopilando credenciales
+20/11/2020 11:58:20 a. m.	Recopilando inicios de sesión
+20/11/2020 11:58:20 a. m.	Recopilando auditorías de servidor
+20/11/2020 11:58:22 a. m.	Buscando elementos duplicados en el proyecto
+20/11/2020 11:58:22 a. m.	Ha finalizado el procesamiento de los elementos duplicados
+20/11/2020 11:58:23 a. m.	Finalizó la importación de la base de datos.
+20/11/2020 11:58:23 a. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\JUAN LEONEL\source\repos\Library.Web\Library.Dbsql\Registros de importación de esquemas\Library.Dbsql_20201120045718.log
+20/11/2020 11:58:23 a. m.	Haga clic en Finalizar para continuar...
